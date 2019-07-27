@@ -16,7 +16,7 @@ namespace PingPongDojo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ui());
+            Application.Run(new UI());
         }
     }
 }

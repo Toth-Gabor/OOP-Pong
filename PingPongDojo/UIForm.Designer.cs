@@ -1,6 +1,6 @@
 ﻿namespace PingPongDojo
 {
-    partial class ui
+    partial class UI
     {
         /// <summary>
         /// Required designer variable.

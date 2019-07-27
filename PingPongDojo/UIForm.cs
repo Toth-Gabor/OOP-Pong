@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace PingPongDojo
 {
-    public partial class ui : Form
+    public partial class UI : Form
     {
-        public ui()
+        public UI()
         {
             InitializeComponent();
             
